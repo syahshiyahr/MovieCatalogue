@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="movies">Movies</string>
+    <string name="tvshows">TV Shows</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="main_title">Bookmarks</string>
+
+</resources>
